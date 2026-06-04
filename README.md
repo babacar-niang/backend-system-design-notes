@@ -94,7 +94,7 @@ backend-system-design-notes/
     ├── kafka-patterns.md
     ├── rate-limiting.md
     └── event-sourcing.md
-
+```
 ---
 
 ## Related Project
